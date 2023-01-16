@@ -1,0 +1,26 @@
+android {
+    flavorDimensions "environment"
+    productFlavors {
+
+        qa {
+            versionName "1.0.0-qa"
+            applicationIdSuffix '.qa'
+
+            buildConfigField "String", "BASE_URL", "\"https:****\""
+        }
+
+        staging {
+            versionName "1.0.0-staging"
+            applicationIdSuffix '.staging'
+
+            buildConfigField "String", "BASE_URL", "\"https:****\""
+        }
+
+        production {
+            versionName "1.0.0"
+
+            buildConfigField "String", "BASE_URL", "\"https:****\""
+        }
+    }
+
+}

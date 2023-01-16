@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AecCleanCodeSample</string>
+
+    <!-- Common -->
+    <string name="msg_no_network">Ne Network, Please check your internet connection</string>
+    <string name="msg_unauthorized_user">The session ended; log in to take advantage of the services</string>
+    <string name="msg_can_not_get_data">An unexpected error occurred; try again later</string>
+    <string name="msg_forbidden_user">Make sure you’re permitted to call this service</string>
+    <string name="msg_no_data">Sorry, the requested data was not found</string>
+    <string name="msg_too_many_requests">You have done too many requests</string>
+    <string name="msg_timeout">Sorry, no response from the system</string>
+    <string name="msg_internal_service_error">Sorry, the service is not available at the moment. Please try again later</string>
+
+</resources>

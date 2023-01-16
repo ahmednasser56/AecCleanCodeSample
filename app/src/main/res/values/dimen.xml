@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- text_size -->
+    <dimen name="ts_very_large">28sp</dimen>
+    <dimen name="ts_large">22sp</dimen>
+    <dimen name="ts_medium">18sp</dimen>
+    <dimen name="ts_small">16sp</dimen>
+    <dimen name="ts_micro">14sp</dimen>
+    <dimen name="ts_hint">12sp</dimen>
+    <dimen name="ts_small_hint">10sp</dimen>
+
+    <!-- padding -->
+    <dimen name="padding_root_layout_parent">16dp</dimen>
+    <dimen name="padding_root_layout_list">8dp</dimen>
+    <dimen name="padding_btn">8dp</dimen>
+    <dimen name="padding_btn_social">16dp</dimen>
+    <dimen name="padding_et">8dp</dimen>
+    <dimen name="padding_label">16dp</dimen>
+    <dimen name="padding_label_hint">4dp</dimen>
+
+    <!-- margin -->
+    <dimen name="margin_large_5">56dp</dimen>
+    <dimen name="margin_large_4">40dp</dimen>
+    <dimen name="margin_large_3">32dp</dimen>
+    <dimen name="margin_large_2">24dp</dimen>
+    <dimen name="margin_large_1">16dp</dimen>
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+
+    <!-- radius -->
+    <dimen name="radius_btn">8dp</dimen>
+    <dimen name="radius_et">8dp</dimen>
+    <dimen name="radius_cards">8dp</dimen>
+    <dimen name="radius_label">8dp</dimen>
+    <dimen name="radius_scrollbar">8dp</dimen>
+    <dimen name="radius_dialog">8dp</dimen>
+    <dimen name="radius_bottom_sheet">16dp</dimen>
+    <dimen name="radius_tab_bg">12dp</dimen>
+
+    <!-- elevation -->
+    <dimen name="elevation_card">2dp</dimen>
+</resources>
